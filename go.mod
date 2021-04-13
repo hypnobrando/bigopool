@@ -1,4 +1,4 @@
-module github.com/bigodines/bigopool/v3
+module github.com/brandoneprice31/bigopool/v3
 
 go 1.15
 
