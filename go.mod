@@ -1,4 +1,4 @@
-module github.com/brandoneprice31/bigopool
+module github.com/hypnobrando/bigopool
 
 go 1.15
 
